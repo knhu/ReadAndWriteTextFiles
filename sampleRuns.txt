@@ -1,0 +1,37 @@
+Script started on Thu 04 Mar 2021 07:59:14 PM PST
+]0;knhu@bec307dl08:~/comp230/projects/proj2[?1034h[38;5;39mknhu(B[m[38;5;15m@(B[m[38;5;136mbec307dl08(B[m[38;5;15m (B[m[38;5;2mproj2(B[m[38;5;15m>(B[m ls
+new.txt  og2.txt  og.txt  proj2.class  proj2.java  proj2SampleRuns
+]0;knhu@bec307dl08:~/comp230/projects/proj2[38;5;39mknhu(B[m[38;5;15m@(B[m[38;5;136mbec307dl08(B[m[38;5;15m (B[m[38;5;2mproj2(B[m[38;5;15m>(B[m java proj2
+Please enter the name of an ASCII file that contains a sorted list of integer numbers one per line: 
+og.txt
+
+Please enter the name of the output file that saves the result from the program:
+new.txt
+
+Overwriting existing file
+Do you want to run the program again? (y for yes and n for no)
+y
+
+Please enter the name of an ASCII file that contains a sorted list of integer numbers one per line: 
+nonexistent_file.txt
+
+Please enter an existing file
+Do you want to run the program again? (y for yes and n for no)
+y
+
+Please enter the name of an ASCII file that contains a sorted list of integer numbers one per line: 
+og2.txt
+
+Please enter the name of the output file that saves the result from the program:
+newer.txt
+
+New file created
+Do you want to run the program again? (y for yes and n for no)
+n
+
+]0;knhu@bec307dl08:~/comp230/projects/proj2[38;5;39mknhu(B[m[38;5;15m@(B[m[38;5;136mbec307dl08(B[m[38;5;15m (B[m[38;5;2mproj2(B[m[38;5;15m>(B[m ls
+newer.txt  new.txt  og2.txt  og.txt  proj2.class  proj2.java  proj2SampleRuns
+]0;knhu@bec307dl08:~/comp230/projects/proj2[38;5;39mknhu(B[m[38;5;15m@(B[m[38;5;136mbec307dl08(B[m[38;5;15m (B[m[38;5;2mproj2(B[m[38;5;15m>(B[m exit
+exit
+
+Script done on Thu 04 Mar 2021 08:00:11 PM PST
