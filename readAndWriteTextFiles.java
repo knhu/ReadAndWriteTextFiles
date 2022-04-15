@@ -11,7 +11,7 @@
 import java.util.*; // import all utilities (need scanner)
 import java.io.*; // import all input/output
 
-public class proj2 {
+public class readAndWriteTextFiles {
 
 	// The main method
 	public static void main(String[] args) {
